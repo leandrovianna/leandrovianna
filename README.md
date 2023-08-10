@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Leandro Vianna 👋
+
+- 🎓 Bsc. Computer Science at Universidade Federal de Goiás (UFG)
+- Former ICPC contestant
+  - Bronze medal in 2020 Brazilian Finals
+
+![github stats](https://github-readme-stats.vercel.app/api?username=leandrovianna&show_icons=true)
+![github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrovianna)
+
+## Contact
+<a href="https://www.linkedin.com/in/leandrovianna">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://gitlab.com/leandrovianna">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</a>
 
 <!--
 **leandrovianna/leandrovianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
