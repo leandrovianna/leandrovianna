@@ -24,6 +24,10 @@
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
+<a href="https://icpc.global/ICPCID/8ZWR2Y3CQXI9">
+  <img src="https://img.shields.io/badge/ICPCID-0061CC?style=for-the-badge&logo=acm&logoColor=white" />
+</a>
+
 <!--
 **leandrovianna/leandrovianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
