@@ -1,11 +1,9 @@
 ### Hi there, I'm Leandro Vianna 👋
 
+- 👨‍💻 Software Developer at [vendoor](https://vendoor.me)
 - 🎓 Bsc. Computer Science at Universidade Federal de Goiás (UFG)
 - 🖥️ Former ICPC contestant
   - 🥉 Bronze medal in 2020 Brazilian Finals
-
-![github stats](https://github-readme-stats.vercel.app/api?username=leandrovianna&show_icons=true)
-![github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrovianna)
 
 ## Contact
 <a href="https://www.linkedin.com/in/leandrovianna">
@@ -23,12 +21,17 @@
 <a href="https://www.hackerrank.com/leandrovianna">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
-
 <a href="https://icpc.global/ICPCID/8ZWR2Y3CQXI9">
   <img src="https://img.shields.io/badge/ICPCID-0061CC?style=for-the-badge&logo=acm&logoColor=white" />
 </a>
 
+## Github stats
+![github stats](https://github-readme-stats.vercel.app/api?username=leandrovianna&show_icons=true)
+![github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrovianna)
+
 <!--
+Emoji source: https://emojipedia.org/
+
 **leandrovianna/leandrovianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
