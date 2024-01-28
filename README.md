@@ -13,7 +13,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/leandrovianna)
 [![ICPCID](https://img.shields.io/badge/ICPCID-0061CC?style=for-the-badge&logo=acm&logoColor=white)](https://icpc.global/ICPCID/8ZWR2Y3CQXI9)
 
-## Language and tools
+## Programming Languages and tools
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-437291?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
