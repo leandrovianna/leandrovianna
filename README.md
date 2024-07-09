@@ -1,6 +1,6 @@
 ### Hi there, I'm Leandro Vianna 👋
 
-- 👨‍💻 Software Developer at [vendoor](https://vendoor.me)
+- 👨‍💻 Software Developer
 - 🎓 Bsc. Computer Science at Universidade Federal de Goiás (UFG)
 - 🖥️ Former ICPC contestant
   - 🥉 Bronze medal in 2020 Brazilian Finals
